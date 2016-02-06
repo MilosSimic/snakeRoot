@@ -1,0 +1,8 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\NetTester\bin\Debug\NetTester.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\NetTester\bin\Debug\NetTester.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\NetTester\obj\Debug\NetTester.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\NetTester\obj\Debug\NetTester.pdb
+C:\Users\Milos\Desktop\snakeRoot\NetTester\bin\Debug\NetTester.dll
+C:\Users\Milos\Desktop\snakeRoot\NetTester\bin\Debug\NetTester.pdb
+C:\Users\Milos\Desktop\snakeRoot\NetTester\obj\Debug\NetTester.dll
+C:\Users\Milos\Desktop\snakeRoot\NetTester\obj\Debug\NetTester.pdb

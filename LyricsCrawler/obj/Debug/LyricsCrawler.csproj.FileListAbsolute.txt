@@ -1,0 +1,8 @@
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.pdb
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\GoogleSearchAPI.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\HtmlAgilityPack.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\Newtonsoft.Json.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.csprojResolveAssemblyReference.cache
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.pdb

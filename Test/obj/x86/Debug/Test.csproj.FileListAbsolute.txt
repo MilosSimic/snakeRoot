@@ -1,0 +1,10 @@
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\bin\Debug\Test.exe
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\bin\Debug\Test.pdb
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\bin\Debug\Security.cs.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\bin\Debug\Security.cs.pdb
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\obj\x86\Debug\Test.exe
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\Test\obj\x86\Debug\Test.pdb
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\Test\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\Test\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\Test\bin\Debug\XMLSerializer.pdb

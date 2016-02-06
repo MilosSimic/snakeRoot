@@ -1,0 +1,24 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.csprojResolveAssemblyReference.cache
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\Bass.Net.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\Security.cs.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\bin\Debug\Security.cs.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.pdb
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\Bass.Net.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\Security.cs.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\bin\Debug\Security.cs.pdb
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.dll
+C:\Users\Milos\Desktop\snakeRoot\snakeRootlib\obj\Debug\snakeRootlib.pdb

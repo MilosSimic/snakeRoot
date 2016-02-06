@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<authentication>
+  <twitter>
+    <consumerkey>5m6eT4NDgW3KNy6IREVfw</consumerkey>
+    <consumersecret>5dAF7J3KnQTwGgiA9NplhT8OjJBrwG3Eq2h3vpRgw</consumersecret>
+    <oauth_token>1446082326-hmkYjIVuJsqw7TYaRwhScYVziC9wmNQECIVfKPW</oauth_token>
+    <oauth_token_secret>liUgQienv93ODdZjPC6AgDQD7VsoGoeChltv3pLRwomlW</oauth_token_secret>
+  </twitter>
+  <facebook>
+  </facebook>
+</authentication>

@@ -1,0 +1,10 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\XMLSerializer\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\XMLSerializer\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\XMLSerializer\obj\Debug\XMLSerializer.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\XMLSerializer\obj\Debug\XMLSerializer.pdb
+C:\Users\Milos\Desktop\snakeRoot\XMLSerializer\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\Desktop\snakeRoot\XMLSerializer\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\Desktop\snakeRoot\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\Desktop\snakeRoot\XMLSerializer\obj\Debug\XMLSerializer.dll
+C:\Users\Milos\Desktop\snakeRoot\XMLSerializer\obj\Debug\XMLSerializer.pdb

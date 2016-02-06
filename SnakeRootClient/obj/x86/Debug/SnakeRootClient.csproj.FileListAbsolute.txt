@@ -1,0 +1,106 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\authentication.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\WolframalphaKey.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\bass.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\bass_fx.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\stop.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\pause.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\play.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\speaker.png
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\Twitter button.png
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootClient.exe
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootClient.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\GoogleSearchAPI.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootCore.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\NetTester.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Bass.Net.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Security.cs.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootCore.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\NetTester.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Bass.Net.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\Security.cs.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.csprojResolveAssemblyReference.cache
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.g.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.LyricsDialog.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.PhotosDialog.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.WebDialog.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.Form1.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.Properties.Resources.resources
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.csproj.GenerateResource.Cache
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.exe
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.pdb
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369275_186389.ico
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369285_186404.ico
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369295_186395.ico
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369323_186405.ico
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403379850_6498.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448002_171415.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448012_171488.ico
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448025_171496.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.exe
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\authentication.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\WolframalphaKey.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\bass.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\bass_fx.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369275_186389.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369285_186404.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369295_186395.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403369323_186405.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403379850_6498.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448002_171415.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448012_171488.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\1403448025_171496.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\stop.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\pause.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\play.ico
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\speaker.png
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\assets\Twitter button.png
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootClient.exe
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootClient.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\GoogleSearchAPI.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootCore.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\NetTester.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Bass.Net.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Security.cs.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\SnakeRootCore.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\NetTester.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Bass.Net.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\bin\Debug\Security.cs.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.g.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.LyricsDialog.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.PhotosDialog.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.dialogs.WebDialog.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.Form1.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.Properties.Resources.resources
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootClient\obj\x86\Debug\SnakeRootClient.csproj.GenerateResource.Cache

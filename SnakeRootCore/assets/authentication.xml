@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<authentication>
+  <twitter>
+    <consumerkey>ADD_YOUR_KEY</consumerkey>
+    <consumersecret>ADD_YOUR_SECRET</consumersecret>
+    <oauth_token>ADD_YOUR_TOKEN</oauth_token>
+    <oauth_token_secret>ADD_YOUR_TOKEN</oauth_token_secret>
+  </twitter>
+  <facebook>
+  </facebook>
+</authentication>

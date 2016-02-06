@@ -1,0 +1,15 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\bin\Debug\assets\authentication.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\obj\Debug\TwitterMenager.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\TwitterMenager\obj\Debug\TwitterMenager.pdb
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\bin\Debug\assets\authentication.xml
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\obj\Debug\TwitterMenager.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\obj\Debug\TwitterMenager.dll
+C:\Users\Milos\Desktop\snakeRoot\TwitterMenager\obj\Debug\TwitterMenager.pdb

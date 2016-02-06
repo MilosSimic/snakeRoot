@@ -1,0 +1,11 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.pdb
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.dll
+C:\Users\Milos\Desktop\snakeRoot\LyricsCrawler\obj\Debug\LyricsCrawler.pdb

@@ -1,0 +1,6 @@
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\bin\Debug\TwitterStatus.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\bin\Debug\TwitterStatus.pdb
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\bin\Debug\LinqToTwitter.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\bin\Debug\Newtonsoft.Json.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\obj\Debug\TwitterStatus.dll
+c:\users\milos\documents\visual studio 2010\Projects\snakeRoot\TwitterStatus\obj\Debug\TwitterStatus.pdb

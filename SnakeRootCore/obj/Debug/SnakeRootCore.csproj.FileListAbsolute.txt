@@ -1,0 +1,54 @@
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\assets\authentication.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\assets\WolframalphaKey.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\bass.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\bass_fx.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\SnakeRootCore.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\SnakeRootCore.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\NetTester.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\Security.cs.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\Bass.Net.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\NetTester.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\Security.cs.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\bin\Debug\Bass.Net.xml
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.csprojResolveAssemblyReference.cache
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.dll
+C:\Users\Milos\documents\visual studio 2010\Projects\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\assets\nBASSAuth.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\assets\authentication.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\assets\ListSchema.xsd
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\assets\WolframalphaKey.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\bass.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\bass_fx.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\SnakeRootCore.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\SnakeRootCore.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\LyricsCrawler.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\NetTester.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\Security.cs.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\snakeRootlib.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\TwitterMenager.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\XMLSerializer.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\Bass.Net.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\LinqToTwitterCP.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\LyricsCrawler.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\NetTester.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\Security.cs.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\snakeRootlib.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\TwitterMenager.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\XMLSerializer.pdb
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\bin\Debug\Bass.Net.xml
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.dll
+C:\Users\Milos\Desktop\snakeRoot\SnakeRootCore\obj\Debug\SnakeRootCore.pdb
